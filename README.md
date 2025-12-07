@@ -214,3 +214,14 @@ TRELLO_TO_LEAD = {
 ---
 
 ##
+
+## AI Usage Notes
+
+I used AI (ChatGPT) during this assignment to speed up development and avoid searching docs manually.
+
+### What I used AI for
+- Quick summaries of the Trello and Google Sheets REST API docs
+- Generating initial versions of `requests` calls and JSON payload structures
+- Getting suggestions for overall project structure (separating API clients and sync logic)
+- Used to avoid repetitive tasks
+
