@@ -11,6 +11,9 @@ This project implements a **realistic two-way data synchronization** between:
 
 The integration keeps **lead status** and **task status** in sync automatically using Python, REST APIs, and event-based automation.
 
+## VIDEO LINK:- 
+https://drive.google.com/file/d/12NLcJPvFBXa_qtpCuZvTczbNw0x1Rj4e/view?usp=sharing
+
 ### Key Features
 
 ✔ Two-way sync (Sheet → Trello and Trello → Sheet)
